@@ -1,0 +1,9 @@
+{
+    "name": "SurfaceConstructionSignals",
+    "version": "0.1.0",
+    "title": "Planetary Missing Materials Signal",
+    "author": "JustAsh6666",
+    "description": "Creates custom signals to indicate missing construction materials on each planet.",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"]
+}
